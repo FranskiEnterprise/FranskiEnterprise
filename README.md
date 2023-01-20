@@ -3,6 +3,11 @@
 # 💫 About Me:
 Who? What? Why?<br><br>Who?<br>Franski Enterprise is a Community of Web 3.0 Developers, Day-Traders, NFT Artists, Business Consultants, Marketers, Lawyers and Accountants.<br>At Franski Enterprise, we cultivate our community through social entrepreneurship; we create, curate, design, produce, innovate, access, and repeat.<br><br>Value Proposition<br>We Here at Franski Enterprise believe that Education is best delivered only when it is visible in the actions of the subject. <br>How?<br>Franski Enterprise brings in sustainable development, financial education and vocational training under the same umbrella.<br><br>Departments<br>Our Services include, but is not limited to Web 3.0, De-Fi, Blockchain, Smart Contracts, and NFTs.<br>In-house, we have MarCom, Media House, Design Studio, Software development House, Auditing Firm, Sound Studio, Sports and Recreation Center (S&Rc), Wellness Center, and Consulting Firm.<br><br>Stay Tuned!
 
+## 💻 We Are Developers at Franski Enterpeise
+![image](https://user-images.githubusercontent.com/123102143/213689345-49c61964-6129-478e-8748-a5c2ef34316e.png)
+![image](https://user-images.githubusercontent.com/123102143/213689490-c1c5be06-89e5-41fd-890a-b0c75b08c329.png)
+![image](https://user-images.githubusercontent.com/123102143/213690088-09ac9f66-c49a-4054-9394-cbe895db27fd.png)
+![image](https://user-images.githubusercontent.com/123102143/213690411-6fcf068f-445b-40cf-8960-fd113f330275.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franski-enterprise-smc-pvt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@franskiFilm) 
