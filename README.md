@@ -5,11 +5,8 @@ Who? What? Why?<br><br>Who?<br>Franski Enterprise is a Community of Web 3.0 Deve
 
 ## 💻 We Are Developers at Franski Enterpeise
 ![image](https://user-images.githubusercontent.com/123102143/213689345-49c61964-6129-478e-8748-a5c2ef34316e.png)
-Full-stack developer
 ![image](https://user-images.githubusercontent.com/123102143/213689490-c1c5be06-89e5-41fd-890a-b0c75b08c329.png)
-Full-stack developer
 ![image](https://user-images.githubusercontent.com/123102143/213690088-09ac9f66-c49a-4054-9394-cbe895db27fd.png)
-Full-stack developer
 ![image](https://user-images.githubusercontent.com/123102143/213690411-6fcf068f-445b-40cf-8960-fd113f330275.png)
 
 ## 🌐 Socials:
