@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/123102143/213682327-67363219-db49-4e6b-a892-311727c31f2d.png)
 
-# 💫 About Me:
+# 💫 About Me 
 Who? What? Why?<br><br>Who?<br>Franski Enterprise is a Community of Web 3.0 Developers, Day-Traders, NFT Artists, Business Consultants, Marketers, Lawyers and Accountants.<br>At Franski Enterprise, we cultivate our community through social entrepreneurship; we create, curate, design, produce, innovate, access, and repeat.<br><br>Value Proposition<br>We Here at Franski Enterprise believe that Education is best delivered only when it is visible in the actions of the subject. <br>How?<br>Franski Enterprise brings in sustainable development, financial education and vocational training under the same umbrella.<br><br>Departments<br>Our Services include, but is not limited to Web 3.0, De-Fi, Blockchain, Smart Contracts, and NFTs.<br>In-house, we have MarCom, Media House, Design Studio, Software development House, Auditing Firm, Sound Studio, Sports and Recreation Center (S&Rc), Wellness Center, and Consulting Firm.<br><br>Stay Tuned!
 
 ## 💻 We Are Developers at Franski Enterpeise
