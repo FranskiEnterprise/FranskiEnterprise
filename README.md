@@ -8,7 +8,6 @@ Who? What? Why?<br><br>Who?<br>Franski Enterprise is a Community of Web 3.0 Deve
 ![image](https://user-images.githubusercontent.com/123102143/213689490-c1c5be06-89e5-41fd-890a-b0c75b08c329.png)
 ![image](https://user-images.githubusercontent.com/123102143/213690088-09ac9f66-c49a-4054-9394-cbe895db27fd.png)
 ![image](https://user-images.githubusercontent.com/123102143/213690411-6fcf068f-445b-40cf-8960-fd113f330275.png)
-![imag](https://mir-s3-cdn-cf.behance.net/user/230/881a651458870071.63dd1a9e4f541.jpg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franski-enterprise-smc-pvt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@franskiFilm) 
